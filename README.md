@@ -9,3 +9,6 @@ Le dossier contient un dossier principal avec le site web principal ainsi que la
 Composé également de sous dossiers, nous pouvons y retrouver un dossier Admin comprenant lui même un dossier css, images et js.
 
 Dans ce dossier Admin, 3 pages s'y trouvent. Une qui sera la page d'administration, une page de connexion et une page de redirection lorsque la connexion a échouée.
+
+
+Voici le lien pour accéder au portfolio directement depuis votre naviguateur : http://167.86.87.91/tanguy/
